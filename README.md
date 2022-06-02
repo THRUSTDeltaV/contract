@@ -1,5 +1,4 @@
-# contract
-DeltaV THRUST BSC contract 0x969f60bfe17962e0f061b434596545c7b6cd6fc4
+# DeltaV THRUST BSC contract 0x969f60bfe17962e0f061b434596545c7b6cd6fc4
 
 Components of <b>DeltaV THRUST</b> DVG Protocol <br /><br />
 <a href="https://deltav.exchange">deltav.exchange</a><br />
